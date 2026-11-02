@@ -4,7 +4,7 @@
 **Arina Kostina**  
 **Accepted Poster — [New in Machine Learning (NewInML) Workshop at NeurIPS 2026](https://newinml.github.io/NewInML2026NeurIPS/)**
 
-This repository accompanies the paper *Exploring Latent Representations for Symmetry Discovery*. It investigates how **latent dimensionality, representation learning, and geometric inductive biases** affect the discovery of continuous symmetries in data.
+This repository accompanies the paper *Exploring Latent Representations for Symmetry Discovery*. It investigates how **latent dimensionality, representation learning, and geometric inductive biases** affect the discovery of continuous symmetries in data. Full paper will be uploaded soon.
 
 ## Abstract
 
